@@ -1,0 +1,3 @@
+jal label
+nop
+label:
