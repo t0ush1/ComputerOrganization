@@ -1,0 +1,15 @@
+0
+rd
+-
+ALUResult
+ALUResult
+shamt
+regRD2
+sra
+-
+-
+add4
+-
+1
+5
+1
