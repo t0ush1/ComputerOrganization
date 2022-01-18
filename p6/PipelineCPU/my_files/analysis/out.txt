@@ -1,0 +1,404 @@
+standard pipeline-cycle: 1642
+    slow pipeline-cycle: 2915
+   accepted cycle range: [1387, 2533]
+
+standard pipeline-cycle: 4744
+    slow pipeline-cycle: 7253
+   accepted cycle range: [4242, 6500]
+
+standard pipeline-cycle: 4816
+    slow pipeline-cycle: 7316
+   accepted cycle range: [4316, 6566]
+
+standard pipeline-cycle: 4818
+    slow pipeline-cycle: 7273
+   accepted cycle range: [4327, 6536]
+
+standard pipeline-cycle: 4747
+    slow pipeline-cycle: 7198
+   accepted cycle range: [4256, 6462]
+
+standard pipeline-cycle: 4704
+    slow pipeline-cycle: 7222
+   accepted cycle range: [4200, 6466]
+
+standard pipeline-cycle: 4522
+    slow pipeline-cycle: 6934
+   accepted cycle range: [4039, 6210]
+
+standard pipeline-cycle: 4772
+    slow pipeline-cycle: 7235
+   accepted cycle range: [4279, 6496]
+
+standard pipeline-cycle: 4864
+    slow pipeline-cycle: 7405
+   accepted cycle range: [4355, 6642]
+
+standard pipeline-cycle: 4789
+    slow pipeline-cycle: 7347
+   accepted cycle range: [4277, 6579]
+
+standard pipeline-cycle: 4861
+    slow pipeline-cycle: 7348
+   accepted cycle range: [4363, 6601]
+
+standard pipeline-cycle: 4634
+    slow pipeline-cycle: 7181
+   accepted cycle range: [4124, 6416]
+
+standard pipeline-cycle: 4623
+    slow pipeline-cycle: 6977
+   accepted cycle range: [4152, 6270]
+
+standard pipeline-cycle: 4640
+    slow pipeline-cycle: 7037
+   accepted cycle range: [4160, 6317]
+
+standard pipeline-cycle: 4799
+    slow pipeline-cycle: 7127
+   accepted cycle range: [4333, 6428]
+
+standard pipeline-cycle: 4707
+    slow pipeline-cycle: 7186
+   accepted cycle range: [4211, 6442]
+
+standard pipeline-cycle: 4713
+    slow pipeline-cycle: 7262
+   accepted cycle range: [4203, 6497]
+
+standard pipeline-cycle: 4785
+    slow pipeline-cycle: 7292
+   accepted cycle range: [4283, 6539]
+
+standard pipeline-cycle: 4589
+    slow pipeline-cycle: 6990
+   accepted cycle range: [4108, 6269]
+
+standard pipeline-cycle: 4585
+    slow pipeline-cycle: 6919
+   accepted cycle range: [4118, 6218]
+
+standard pipeline-cycle: 4620
+    slow pipeline-cycle: 7042
+   accepted cycle range: [4135, 6315]
+
+standard pipeline-cycle: 4719
+    slow pipeline-cycle: 7199
+   accepted cycle range: [4223, 6455]
+
+standard pipeline-cycle: 4700
+    slow pipeline-cycle: 7069
+   accepted cycle range: [4226, 6358]
+
+standard pipeline-cycle: 4745
+    slow pipeline-cycle: 7186
+   accepted cycle range: [4256, 6453]
+
+standard pipeline-cycle: 4592
+    slow pipeline-cycle: 6957
+   accepted cycle range: [4119, 6247]
+
+standard pipeline-cycle: 4848
+    slow pipeline-cycle: 7407
+   accepted cycle range: [4336, 6639]
+
+standard pipeline-cycle: 4872
+    slow pipeline-cycle: 7364
+   accepted cycle range: [4373, 6616]
+
+standard pipeline-cycle: 4914
+    slow pipeline-cycle: 7465
+   accepted cycle range: [4403, 6699]
+
+standard pipeline-cycle: 4695
+    slow pipeline-cycle: 7118
+   accepted cycle range: [4210, 6391]
+
+standard pipeline-cycle: 4716
+    slow pipeline-cycle: 7223
+   accepted cycle range: [4214, 6470]
+
+standard pipeline-cycle: 4894
+    slow pipeline-cycle: 7339
+   accepted cycle range: [4405, 6605]
+
+standard pipeline-cycle: 4909
+    slow pipeline-cycle: 7344
+   accepted cycle range: [4422, 6613]
+
+standard pipeline-cycle: 4757
+    slow pipeline-cycle: 7271
+   accepted cycle range: [4254, 6516]
+
+standard pipeline-cycle: 4709
+    slow pipeline-cycle: 7108
+   accepted cycle range: [4229, 6388]
+
+standard pipeline-cycle: 4677
+    slow pipeline-cycle: 7149
+   accepted cycle range: [4182, 6407]
+
+standard pipeline-cycle: 4796
+    slow pipeline-cycle: 7370
+   accepted cycle range: [4281, 6597]
+
+standard pipeline-cycle: 4916
+    slow pipeline-cycle: 7502
+   accepted cycle range: [4398, 6726]
+
+standard pipeline-cycle: 4682
+    slow pipeline-cycle: 7140
+   accepted cycle range: [4190, 6402]
+
+standard pipeline-cycle: 4754
+    slow pipeline-cycle: 7243
+   accepted cycle range: [4256, 6496]
+
+standard pipeline-cycle: 4711
+    slow pipeline-cycle: 7162
+   accepted cycle range: [4220, 6426]
+
+standard pipeline-cycle: 4665
+    slow pipeline-cycle: 7083
+   accepted cycle range: [4181, 6357]
+
+standard pipeline-cycle: 5003
+    slow pipeline-cycle: 7487
+   accepted cycle range: [4506, 6741]
+
+standard pipeline-cycle: 4841
+    slow pipeline-cycle: 7258
+   accepted cycle range: [4357, 6532]
+
+standard pipeline-cycle: 4779
+    slow pipeline-cycle: 7311
+   accepted cycle range: [4272, 6551]
+
+standard pipeline-cycle: 5045
+    slow pipeline-cycle: 7645
+   accepted cycle range: [4525, 6865]
+
+standard pipeline-cycle: 4935
+    slow pipeline-cycle: 7414
+   accepted cycle range: [4439, 6670]
+
+standard pipeline-cycle: 4984
+    slow pipeline-cycle: 7567
+   accepted cycle range: [4467, 6792]
+
+standard pipeline-cycle: 4880
+    slow pipeline-cycle: 7470
+   accepted cycle range: [4362, 6693]
+
+standard pipeline-cycle: 4812
+    slow pipeline-cycle: 7298
+   accepted cycle range: [4314, 6552]
+
+standard pipeline-cycle: 4603
+    slow pipeline-cycle: 7091
+   accepted cycle range: [4105, 6344]
+
+standard pipeline-cycle: 4817
+    slow pipeline-cycle: 7300
+   accepted cycle range: [4320, 6555]
+
+standard pipeline-cycle: 4819
+    slow pipeline-cycle: 7334
+   accepted cycle range: [4316, 6579]
+
+standard pipeline-cycle: 4785
+    slow pipeline-cycle: 7261
+   accepted cycle range: [4289, 6518]
+
+standard pipeline-cycle: 4736
+    slow pipeline-cycle: 7221
+   accepted cycle range: [4239, 6475]
+
+standard pipeline-cycle: 4521
+    slow pipeline-cycle: 6867
+   accepted cycle range: [4051, 6163]
+
+standard pipeline-cycle: 4587
+    slow pipeline-cycle: 6907
+   accepted cycle range: [4123, 6211]
+
+standard pipeline-cycle: 4665
+    slow pipeline-cycle: 7172
+   accepted cycle range: [4163, 6419]
+
+standard pipeline-cycle: 4844
+    slow pipeline-cycle: 7335
+   accepted cycle range: [4345, 6587]
+
+standard pipeline-cycle: 4764
+    slow pipeline-cycle: 7289
+   accepted cycle range: [4259, 6531]
+
+standard pipeline-cycle: 4803
+    slow pipeline-cycle: 7232
+   accepted cycle range: [4317, 6503]
+
+standard pipeline-cycle: 4779
+    slow pipeline-cycle: 7288
+   accepted cycle range: [4277, 6535]
+
+standard pipeline-cycle: 4641
+    slow pipeline-cycle: 7127
+   accepted cycle range: [4143, 6381]
+
+standard pipeline-cycle: 4794
+    slow pipeline-cycle: 7259
+   accepted cycle range: [4301, 6519]
+
+standard pipeline-cycle: 4749
+    slow pipeline-cycle: 7130
+   accepted cycle range: [4272, 6415]
+
+standard pipeline-cycle: 4691
+    slow pipeline-cycle: 7072
+   accepted cycle range: [4214, 6357]
+
+standard pipeline-cycle: 4686
+    slow pipeline-cycle: 7143
+   accepted cycle range: [4194, 6405]
+
+standard pipeline-cycle: 4873
+    slow pipeline-cycle: 7369
+   accepted cycle range: [4373, 6620]
+
+standard pipeline-cycle: 4602
+    slow pipeline-cycle: 7014
+   accepted cycle range: [4119, 6290]
+
+standard pipeline-cycle: 4803
+    slow pipeline-cycle: 7318
+   accepted cycle range: [4300, 6563]
+
+standard pipeline-cycle: 4619
+    slow pipeline-cycle: 7034
+   accepted cycle range: [4136, 6309]
+
+standard pipeline-cycle: 4806
+    slow pipeline-cycle: 7254
+   accepted cycle range: [4316, 6519]
+
+standard pipeline-cycle: 4710
+    slow pipeline-cycle: 7193
+   accepted cycle range: [4213, 6448]
+
+standard pipeline-cycle: 5045
+    slow pipeline-cycle: 7645
+   accepted cycle range: [4525, 6865]
+
+standard pipeline-cycle: 4652
+    slow pipeline-cycle: 7114
+   accepted cycle range: [4159, 6375]
+
+standard pipeline-cycle: 4871
+    slow pipeline-cycle: 7302
+   accepted cycle range: [4384, 6572]
+
+standard pipeline-cycle: 4610
+    slow pipeline-cycle: 6972
+   accepted cycle range: [4137, 6263]
+
+standard pipeline-cycle: 4781
+    slow pipeline-cycle: 7250
+   accepted cycle range: [4287, 6509]
+
+standard pipeline-cycle: 4669
+    slow pipeline-cycle: 7004
+   accepted cycle range: [4202, 6303]
+
+standard pipeline-cycle: 4690
+    slow pipeline-cycle: 7047
+   accepted cycle range: [4218, 6339]
+
+standard pipeline-cycle: 4590
+    slow pipeline-cycle: 6962
+   accepted cycle range: [4115, 6250]
+
+standard pipeline-cycle: 4736
+    slow pipeline-cycle: 7308
+   accepted cycle range: [4221, 6536]
+
+standard pipeline-cycle: 4594
+    slow pipeline-cycle: 6978
+   accepted cycle range: [4117, 6262]
+
+standard pipeline-cycle: 4786
+    slow pipeline-cycle: 7296
+   accepted cycle range: [4284, 6543]
+
+standard pipeline-cycle: 4835
+    slow pipeline-cycle: 7359
+   accepted cycle range: [4330, 6601]
+
+standard pipeline-cycle: 4545
+    slow pipeline-cycle: 7096
+   accepted cycle range: [4034, 6330]
+
+standard pipeline-cycle: 4603
+    slow pipeline-cycle: 7130
+   accepted cycle range: [4097, 6371]
+
+standard pipeline-cycle: 4681
+    slow pipeline-cycle: 7134
+   accepted cycle range: [4190, 6398]
+
+standard pipeline-cycle: 5078
+    slow pipeline-cycle: 7499
+   accepted cycle range: [4593, 6772]
+
+standard pipeline-cycle: 4862
+    slow pipeline-cycle: 7451
+   accepted cycle range: [4344, 6674]
+
+standard pipeline-cycle: 4757
+    slow pipeline-cycle: 7219
+   accepted cycle range: [4264, 6480]
+
+standard pipeline-cycle: 4641
+    slow pipeline-cycle: 7093
+   accepted cycle range: [4150, 6357]
+
+standard pipeline-cycle: 4700
+    slow pipeline-cycle: 7028
+   accepted cycle range: [4234, 6329]
+
+standard pipeline-cycle: 4791
+    slow pipeline-cycle: 7166
+   accepted cycle range: [4316, 6453]
+
+standard pipeline-cycle: 4754
+    slow pipeline-cycle: 7150
+   accepted cycle range: [4274, 6431]
+
+standard pipeline-cycle: 4898
+    slow pipeline-cycle: 7354
+   accepted cycle range: [4406, 6617]
+
+standard pipeline-cycle: 4697
+    slow pipeline-cycle: 7153
+   accepted cycle range: [4205, 6416]
+
+standard pipeline-cycle: 4900
+    slow pipeline-cycle: 7268
+   accepted cycle range: [4426, 6557]
+
+standard pipeline-cycle: 4845
+    slow pipeline-cycle: 7243
+   accepted cycle range: [4365, 6523]
+
+standard pipeline-cycle: 4617
+    slow pipeline-cycle: 7052
+   accepted cycle range: [4130, 6321]
+
+standard pipeline-cycle: 4766
+    slow pipeline-cycle: 7228
+   accepted cycle range: [4273, 6489]
+
+standard pipeline-cycle: 4644
+    slow pipeline-cycle: 7173
+   accepted cycle range: [4138, 6414]
+

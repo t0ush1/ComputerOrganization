@@ -1,0 +1,21 @@
+            (op == `R && funct == `mult ) ? {`regAddr_0 , 2'bx         , 2'bx             , 2'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b1 , 4'bx   ,`MDU_mult , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd1   , 3'd1    } :
+            (op == `R && funct == `multu) ? {`regAddr_0 , 2'bx         , 2'bx             , 2'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b1 , 4'bx   ,`MDU_multu, 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd1   , 3'd1    } :
+            (op == `R && funct == `div  ) ? {`regAddr_0 , 2'bx         , 2'bx             , 2'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b1 , 4'bx   ,`MDU_div  , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd1   , 3'd1    } :
+            (op == `R && funct == `divu ) ? {`regAddr_0 , 2'bx         , 2'bx             , 2'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b1 , 4'bx   ,`MDU_divu , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd1   , 3'd1    } :
+
+            (op == `R && funct == `mthi ) ? {`regAddr_0 , 2'bx         , 2'bx             , 2'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b0 , 4'bx   ,`MDU_mthi , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd1   , 3'd5    } :
+            (op == `R && funct == `mtlo ) ? {`regAddr_0 , 2'bx         , 2'bx             , 2'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b0 , 4'bx   ,`MDU_mtlo , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd1   , 3'd5    } :
+
+            (op == `R && funct == `mfhi ) ? {`regAddr_rd, 2'bx         ,`MEMBack_MDUResult,`WBBack_MDUResult, 1'bx          , 1'bx          ,`MDUResult_HI, 1'b0 , 4'bx   ,`MDU_none , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd1, 3'd5   , 3'd5    } :
+            (op == `R && funct == `mflo ) ? {`regAddr_rd, 2'bx         ,`MEMBack_MDUResult,`WBBack_MDUResult, 1'bx          , 1'bx          ,`MDUResult_LO, 1'b0 , 4'bx   ,`MDU_none , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd1, 3'd5   , 3'd5    } :
+
+`define mult  6'b011000
+`define multu 6'b011001
+`define div   6'b011010
+`define divu  6'b011011
+
+`define mthi  6'b010001
+`define mtlo  6'b010011
+
+`define mfhi  6'b010000
+`define mflo  6'b010010
