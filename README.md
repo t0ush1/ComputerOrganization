@@ -1,2 +1,2 @@
 # ComputerOrganization
-BUAA-2020-CO
+BUAA-2020-ComputerOrganization
