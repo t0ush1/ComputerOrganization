@@ -1,0 +1,49 @@
+#**************************************************************
+# system clock and reset input
+#**************************************************************
+NET "clk_in"        LOC = AF13 | IOSTANDARD = LVCMOS33;
+
+NET "sys_rstn"      LOC = AC12 | IOSTANDARD = LVCMOS33;
+
+#**************************************************************
+# LED lights
+#**************************************************************
+NET "led_light[0]"   LOC = L9  | IOSTANDARD = LVCMOS33;
+NET "led_light[1]"   LOC = K9  | IOSTANDARD = LVCMOS33;
+NET "led_light[2]"   LOC = N1  | IOSTANDARD = LVCMOS33;
+NET "led_light[3]"   LOC = N2  | IOSTANDARD = LVCMOS33;
+NET "led_light[4]"   LOC = M1  | IOSTANDARD = LVCMOS33;
+NET "led_light[5]"   LOC = M3  | IOSTANDARD = LVCMOS33;
+NET "led_light[6]"   LOC = L8  | IOSTANDARD = LVCMOS33;
+NET "led_light[7]"   LOC = K7  | IOSTANDARD = LVCMOS33;
+NET "led_light[8]"   LOC = K6  | IOSTANDARD = LVCMOS33;
+NET "led_light[9]"   LOC = K3  | IOSTANDARD = LVCMOS33;
+NET "led_light[10]"  LOC = J4  | IOSTANDARD = LVCMOS33;
+NET "led_light[11]"  LOC = J3  | IOSTANDARD = LVCMOS33;
+NET "led_light[12]"  LOC = J5  | IOSTANDARD = LVCMOS33;
+NET "led_light[13]"  LOC = J2  | IOSTANDARD = LVCMOS33;
+NET "led_light[14]"  LOC = H5  | IOSTANDARD = LVCMOS33;
+NET "led_light[15]"  LOC = H1  | IOSTANDARD = LVCMOS33;
+NET "led_light[16]"  LOC = E9  | IOSTANDARD = LVCMOS33;
+NET "led_light[17]"  LOC = D10 | IOSTANDARD = LVCMOS33;
+NET "led_light[18]"  LOC = A11 | IOSTANDARD = LVCMOS33;
+NET "led_light[19]"  LOC = A10 | IOSTANDARD = LVCMOS33;
+NET "led_light[20]"  LOC = D11 | IOSTANDARD = LVCMOS33;
+NET "led_light[21]"  LOC = E10 | IOSTANDARD = LVCMOS33;
+NET "led_light[22]"  LOC = D14 | IOSTANDARD = LVCMOS33;
+NET "led_light[23]"  LOC = A15 | IOSTANDARD = LVCMOS33;
+NET "led_light[24]"  LOC = G16 | IOSTANDARD = LVCMOS33;
+NET "led_light[25]"  LOC = B14 | IOSTANDARD = LVCMOS33;
+NET "led_light[26]"  LOC = F15 | IOSTANDARD = LVCMOS33;
+NET "led_light[27]"  LOC = D15 | IOSTANDARD = LVCMOS33;
+NET "led_light[28]"  LOC = B16 | IOSTANDARD = LVCMOS33;
+NET "led_light[29]"  LOC = D16 | IOSTANDARD = LVCMOS33;
+NET "led_light[30]"  LOC = C16 | IOSTANDARD = LVCMOS33;
+NET "led_light[31]"  LOC = B18 | IOSTANDARD = LVCMOS33;
+
+#**************************************************************
+# clock timing
+#**************************************************************
+NET "clk_in" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "clk_in" TNM_NET = "clk_in";
+TIMESPEC TS_clk_in = PERIOD "clk_in" 40 ns;
