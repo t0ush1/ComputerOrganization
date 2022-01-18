@@ -1,1 +1,0 @@
-java -jar G:\mars\Mars4_5.jar ic %1.asm
