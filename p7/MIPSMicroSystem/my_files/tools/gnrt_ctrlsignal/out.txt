@@ -1,0 +1,7 @@
+            (op == `SPC2 && rs == `mfc0 ) ? {`regAddr_rt, 2'bx         , 2'bx             ,`WBBack_CP0RD    , 1'bx          , 1'bx          , 1'bx        , 1'b0 , 4'bx   ,`MDU_none , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd2, 3'd5   , 3'd5    } :
+            (op == `SPC2 && rs == `mtc0 ) ? { 2'bx      , 2'bx         , 2'bx             , 3'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b0 , 4'bx   ,`MDU_none , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd5   , 3'd2    } :
+            (op == `SPC2 && funct == `eret ) ? { 2'bx      , 2'bx         , 2'bx             , 3'bx            , 1'bx          , 1'bx          , 1'bx        , 1'b0 , 4'bx   ,`MDU_none , 4'bx   , 3'bx         ,`NPC_add4                   ,`BE_none, 3'bx   , 3'd0, 3'd5   , 3'd5    } :
+
+`define mfc0  5'b00000
+`define mtc0  5'b00100
+`define eret  6'b011000

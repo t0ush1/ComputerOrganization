@@ -1,0 +1,7 @@
+        .clk(),
+        .reset(),
+        .Addr(),
+        .WE(),
+        .Din(),
+        .Dout(),
+        .IRQ(),
